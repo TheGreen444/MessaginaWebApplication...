@@ -5,7 +5,7 @@ hope you like it...
 
 
 Application name: KuraKani
-Kurakani is a nepali word 
-which means conversation
-in english yeah it is a 
-simple chatting web app.
+is a nepali word which
+means conversation in
+english jsut a simple
+chatting web application.
