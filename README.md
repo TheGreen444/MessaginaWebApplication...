@@ -4,8 +4,7 @@ in his php learning journey
 hope you like it...
 
 
-Application name: KuraKani
-is a nepali word which
+Application name: KuraKani, 
+It is a nepali word which
 means conversation in
-english jsut a simple
-chatting web application.
+english.
